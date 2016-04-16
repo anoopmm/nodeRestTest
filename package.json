@@ -1,0 +1,27 @@
+{
+  "name": "anoop",
+  "version": "1.0.0",
+  "description": "rest api for node",
+  "main": "Server.js",
+  "scripts": {
+    "test": "anoopTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoopmm/nodeRestTest.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "anoop m m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoopmm/nodeRestTest/issues"
+  },
+  "homepage": "https://github.com/anoopmm/nodeRestTest#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.12"
+  }
+}
